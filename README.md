@@ -16,7 +16,6 @@ Currently studying Data Science at Paulista School of Informatics and Administra
 
 
 ## Projects:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Analyzing Airbnb dataset for accommodations in Zurich - Switzerland:** http://bit.ly/3sUfSGZ
 
