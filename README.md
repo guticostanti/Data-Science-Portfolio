@@ -19,3 +19,4 @@ Currently studying Data Science at Paulista School of Informatics and Administra
 
 * **Analyzing Airbnb dataset for accommodations in Zurich - Switzerland:** http://bit.ly/3pn271o
 * **Análise de dados sobre suicídio no Brasil:** http://bit.ly/3rcvWC7
+* **Análise de dados sobre criminalidade no Rio de Janeiro:** http://bit.ly/2N9X1al
