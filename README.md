@@ -12,7 +12,7 @@ Currently studying Data Science at Paulista School of Informatics and Administra
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/guticostanti)
-* [Medium](https://www.medium.com/guticostanti)
+* [Blog Brasil Data Science](https://www.brasildatascience.com)
 
 
 ## Projects:
